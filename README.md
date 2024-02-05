@@ -31,7 +31,7 @@ exhibits errors
     ```
 
 3. **Run the Jupyter Notebook:**
-    Open and run the `apple_quality_classification.ipynb` notebook using Jupyter. This can be done using Anaconda or any other Jupyter environment.
+    Open and run the `main.ipynb` notebook using Jupyter. This can be done using Anaconda or any other Jupyter environment.
     ```bash
     jupyter notebook main.ipynb
     ```
