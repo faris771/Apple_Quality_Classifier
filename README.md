@@ -52,9 +52,9 @@ exhibits errors
 - The dataset has been preprocessed for the purpose of this project.
 
 ## Acknowledgments
-This project is part of the ENCS5341 Machine Learning and Data Science course.
+This project is part of the **ENCS5341** Machine Learning and Data Science course.
 
-**Authors:**
+**Contributors:**
 *  [Faris Abu Farha](https://github.com/faris771)
 *  [Omar Masalmah](https://github.com/Omarmasalmah)
   
