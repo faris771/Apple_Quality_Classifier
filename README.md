@@ -48,7 +48,7 @@ exhibits errors
     - If you find any issues or have suggestions for improvements, feel free to contribute by opening an issue or creating a pull request.
 
 ## Dataset
-- The "Apple Quality" dataset (AppleQuality.csv) is included for convenience.
+- The "Apple Quality" dataset (apple_quality.csv) is included for convenience.
 - The dataset has been preprocessed for the purpose of this project.
 
 ## Acknowledgments
