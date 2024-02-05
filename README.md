@@ -1,7 +1,16 @@
 # Machine Learning Project - Apple Quality Classification
 
 ## Introduction
-This repository contains code for a machine learning project focused on classifying apple quality. Three models—Nearest Neighbor Baseline, Support Vector Classifier (SVC), and ExtraTree Classifier—are evaluated using the "Apple Quality" dataset from Kaggle.
+**ENCS5341** Machine Learning And Datascience project, aims to perform a predictive task on a real-world problem using
+machine learning models. We chose a classification task and picked a dataset from
+Kaggle. As a baseline model, we evaluated a nearest neighbor baseline using a distance
+of our choice and reported the performance of this baseline using both k=1 and k=3. We
+then tried to achieve better performance by evaluating two additional models on the task,
+namely SVC and ExtraTreeClassifier. We discussed and motivated our model selection
+and commented on why the performance has improved. We tuned at least one hyper-
+parameter for each model by testing at least 4 different values. Finally, we analyzed the
+performance of our best model from examining instances in the test set where our model
+exhibits errors
 
 ## Files
 - **main.ipynb:** Jupyter Notebook containing the complete code.
@@ -12,7 +21,7 @@ This repository contains code for a machine learning project focused on classify
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/faris771/apple_quality_classifier.git
-    cd apple-quality-classification
+    cd apple_quality_classifier
     ```
 
 2. **Install Dependencies:**
