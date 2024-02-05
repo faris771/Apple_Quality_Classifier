@@ -33,7 +33,7 @@ exhibits errors
 3. **Run the Jupyter Notebook:**
     Open and run the `apple_quality_classification.ipynb` notebook using Jupyter. This can be done using Anaconda or any other Jupyter environment.
     ```bash
-    jupyter notebook apple_quality_classification.ipynb
+    jupyter notebook main.ipynb
     ```
 
 4. **Explore the Code:**
