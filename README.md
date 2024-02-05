@@ -1,7 +1,7 @@
 # Machine Learning Project - Apple Quality Classification
 
 ## Introduction
-**ENCS5341** Machine Learning And Datascience project, aims to perform a predictive task on a real-world problem using
+**ENCS5341** Machine Learning And Data Science project, aims to perform a predictive task on a real-world problem using
 machine learning models. We chose a classification task and picked a dataset from
 Kaggle. As a baseline model, we evaluated a nearest neighbor baseline using a distance
 of our choice and reported the performance of this baseline using both k=1 and k=3. We
